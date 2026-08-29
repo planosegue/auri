@@ -21,3 +21,18 @@ __pycache__/
 # Logs
 *.log
 *_backup.py
+
+# AURI persistent memory
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# AURI persistent memory
+data/
+*.db
+*.sqlite
+*.sqlite3
+
+# Backups
+*_backup.py
